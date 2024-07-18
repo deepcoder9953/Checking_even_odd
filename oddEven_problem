@@ -1,0 +1,13 @@
+// var data = [213, 3232, 4323, 53443, 53232, 53435453, 54434232]
+// var size = data.length;
+// var even = "";
+// var odd = "";
+
+// for(var i = 0; i<size; i++){
+// if(even = data[i]%2 == 0){
+//     console.log(data[i],"is even");
+// }
+// else if(odd = data[i]%3 == 0){
+//     console.log(data[i], "is odd");
+// }
+// }
